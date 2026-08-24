@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"East US"'
   ###############################################
-  ### Replace <Kalpana75> with GitHub Kalpana75 ###
+  ### Replace <Kalpana75> with GitHub 1Kalpana75 ###
   ###############################################
   AZURE_WEBAPP_NAME: <Kalpana75>-ttt-app
 
